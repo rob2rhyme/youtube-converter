@@ -65,7 +65,6 @@ Downloading YouTube videos may violate copyright policies. Please use this appli
 👨‍💻 Creator
 
 Created by Robin Thapa
-
 💡 Future Enhancements
 	•	🎨 Dark Mode Toggle: Allow users to switch between light and dark themes.
 	•	🌐 Internationalization (i18n): Support multiple languages for a broader audience.
